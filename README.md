@@ -6,8 +6,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
 
-![Fitness Website Screenshot](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Evogym+Fitness+Website) 
-*Add your screenshot above*
+![Fitness Website Screenshot](readme-assets/fitness-website-screenshot.png)
 
 ---
 
